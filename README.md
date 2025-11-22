@@ -1,4 +1,4 @@
-# Matplotlib & Seaborn Visualization Demos
+# Data-visualization-Using-Matplotlib
 
 This collection demonstrates core plotting techniques using Matplotlib and Seaborn, with ready-to-run Jupyter notebooks and a small demo script. It's designed for learners and practitioners who want hands-on examples of common chart types, styling, and interactive workflows.
 
